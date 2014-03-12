@@ -1,7 +1,7 @@
 # Code Louisville Member Directory
 
 **Description:**
-
+Need to add some instructions here
 
 ### Dependencies
 

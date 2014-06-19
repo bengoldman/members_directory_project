@@ -9,7 +9,7 @@ body {
 
 p {
 	margin: 50px 70px 50px 70px;
-	text-align: justify;
+	
 	}
 
 
@@ -18,15 +18,22 @@ p {
 
 .thumbnail {
 	background-color: #000000;
-	max-width: 200px;
-	margin: 20px;
-	}
+	margin: 30px;
+	padding: 0;
+}
+
+img {
+	max-width: 100px;
+	max-height: 100px;
+}
 
 .frame {
 	max-width: 1000px;
 	border-width: 5px;
 	border-style: solid;
 	border-color: white;
+}
+
 
 
 
